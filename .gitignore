@@ -1,0 +1,8 @@
+.stack-work/
+*~
+mypandoc
+mypandoc.cabal
+/*.xml
+/*.json
+/*.md
+doc_tests/
