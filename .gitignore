@@ -4,5 +4,5 @@ mypandoc
 mypandoc.cabal
 /*.xml
 /*.json
-/*.md
 doc_tests/
+CHANGELOG.md
